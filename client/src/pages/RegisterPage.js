@@ -50,12 +50,10 @@ const RegisterPage = () => {
     e.preventDefault()
     e.stopPropagation()
 
-    const URL = `https://chat-app-backend-bbqz.onrender.com/api/register`
-    // const URL = `${process.env.REACT_APP_BACKEND_URL}/api/register`
-
+    
     try {
       console.log("backend call");
-        const response = await axios.post(URL,data);
+        const response = await axios.post("/api/register",data);
         console.log("backend call end ");
         console.log("response",response)
 
