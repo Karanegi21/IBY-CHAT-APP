@@ -1,11 +1,1 @@
-# Chat-Application
-# Chat-Application
-# Chat-Application
-# IBY-Chat-App
-# iby-chat-app
-# iby-chat-app-
-# iby-chat
-# iby-chat
-# iby-chat
-# chatapp
-# chatapp
+Karan Negi - IIT Dhanbad - Mechanical Engineering
